@@ -1,4 +1,3 @@
-from sqlalchemy import PrimaryKeyConstraint
 from sql_alchemy import banco
 
 
